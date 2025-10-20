@@ -5,6 +5,7 @@
 //   (luego N alturas en metros, h >= 0)
 // Salida:
 //   N tiempos (segundos), uno por línea
+// Ejemplo de entrada: ./caida_omp < alturas.txt
 
 #include <bits/stdc++.h>
 #include <omp.h>

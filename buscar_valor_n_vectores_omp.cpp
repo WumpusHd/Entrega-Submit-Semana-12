@@ -5,6 +5,7 @@
 //   (luego N líneas con M enteros cada una)
 // Salida:
 //   N líneas con el índice de la primera aparición de v en cada vector (o -1)
+// Ejemplo de entrada: ./buscar_omp < entrada_buscar.txt
 
 #include <bits/stdc++.h>
 #include <omp.h>
